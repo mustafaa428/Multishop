@@ -30,20 +30,6 @@ Bu proje ile mikroservis mimarisini gerçek bir e-ticaret senaryosu üzerinde uy
 - **Consul / Ocelot / YARP** – Servis keşfi ve yönlendirme
 - **AutoMapper** – DTO-Entity dönüşümleri
 
-
-
-## 📦 Mikroservis Yapısı
-
-```text
-├── ApiGateway
-├── IdentityServer
-├── Services
-│   ├── CatalogService (MongoDB)
-│   ├── BasketService (Redis)
-│   ├── OrderService (PostgreSQL)
-│   ├── DiscountService (gRPC)
-│   ├── PaymentService
-
 🧪 Özellikler
 ✅ Kullanıcı Kaydı & Giriş
 ✅ Ürün Listeleme ve Kategori Filtreleme
@@ -52,14 +38,4 @@ Bu proje ile mikroservis mimarisini gerçek bir e-ticaret senaryosu üzerinde uy
 ✅ Sipariş Oluşturma
 ✅ Ödeme Senaryosu
 ✅ Sipariş Geçmişi
-
-<img width="1920" height="925" alt="multishop1" src="https://github.com/user-attachments/assets/80a73073-8e15-4af4-8bfa-22d0fb863254" />
-
-<img width="1920" height="965" alt="multishop2" src="https://github.com/user-attachments/assets/82c5dcf5-497f-48b1-a324-fdf0ecae90e0" />
-
-<img width="1920" height="937" alt="multishop3" src="https://github.com/user-attachments/assets/4060eda8-bcf9-45b0-8709-a26476500d7e" />
-
-<img width="1920" height="978" alt="multishop4" src="https://github.com/user-attachments/assets/c6bac150-e767-414b-8146-6fa0841e7437" />
-
-
-
+✅ Admin panel entegrasyonu (opsiyonel)
