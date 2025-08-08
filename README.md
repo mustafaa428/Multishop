@@ -39,3 +39,14 @@ Bu proje ile mikroservis mimarisini gerçek bir e-ticaret senaryosu üzerinde uy
 ✅ Ödeme Senaryosu
 ✅ Sipariş Geçmişi
 ✅ Admin panel entegrasyonu (opsiyonel)
+
+<img width="1920" height="925" alt="multishop1" src="https://github.com/user-attachments/assets/b726526c-052e-4d3f-9693-6f1735feb0b9" />
+
+<img width="1920" height="965" alt="multishop2" src="https://github.com/user-attachments/assets/28fad8f2-5836-4b94-bae2-5ea948d75ea5" />
+
+<img width="1920" height="937" alt="multishop3" src="https://github.com/user-attachments/assets/0d24d17f-1f4d-4007-b20b-283a05c6895a" />
+
+<img width="1920" height="978" alt="multishop4" src="https://github.com/user-attachments/assets/38621694-516c-4754-bbb8-c569b586770f" />
+
+
+
