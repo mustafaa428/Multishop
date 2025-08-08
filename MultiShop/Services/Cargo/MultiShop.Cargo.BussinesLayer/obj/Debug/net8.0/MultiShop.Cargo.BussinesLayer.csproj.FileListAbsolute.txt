@@ -1,0 +1,17 @@
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\bin\Debug\net8.0\MultiShop.Cargo.BussinesLayer.deps.json
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\bin\Debug\net8.0\MultiShop.Cargo.BussinesLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\bin\Debug\net8.0\MultiShop.Cargo.BussinesLayer.pdb
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiShop.Cargo.BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiShop.Cargo.BussinesLayer.AssemblyInfoInputs.cache
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiShop.Cargo.BussinesLayer.AssemblyInfo.cs
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiShop.Cargo.BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiShop.Cargo.BussinesLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\refint\MultiShop.Cargo.BussinesLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiShop.Cargo.BussinesLayer.pdb
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\ref\MultiShop.Cargo.BussinesLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\bin\Debug\net8.0\MultiShop.Cargo.DataAccessLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\bin\Debug\net8.0\MultiShop.Cargo.EntityLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\bin\Debug\net8.0\MultiShop.Cargo.DataAccessLayer.pdb
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\bin\Debug\net8.0\MultiShop.Cargo.EntityLayer.pdb
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiShop.Cargo.BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.BussinesLayer\obj\Debug\net8.0\MultiSho.D78F3E2C.Up2Date

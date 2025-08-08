@@ -1,0 +1,111 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Doğrulama Kodu</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #d0e7ff, #ffffff);
+            font-family: 'Segoe UI', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 350px;
+        }
+
+        .code-inputs {
+            display: flex;
+            justify-content: space-between;
+            margin: 20px 0;
+        }
+
+            .code-inputs input {
+                width: 45px;
+                height: 55px;
+                font-size: 24px;
+                text-align: center;
+                border: 2px solid #ccc;
+                border-radius: 10px;
+            }
+
+        button {
+            background-color: #4b6cb7;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .error {
+            color: red;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Doğrulama Kodu</h2>
+        <p>Mailinize gelen 6 haneli kodu giriniz</p>
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="error">@ViewBag.Error</div>
+        }
+
+        <form method="post" asp-controller="EmailVerification" asp-action="VerifyCode">
+            <div class="code-inputs">
+                @for (int i = 0; i < 6; i++)
+                {
+                    <input type="text" name="code" maxlength="1" required />
+                }
+            </div>
+            <button type="submit">Doğrula</button>
+        </form>
+    </div>
+
+    <script>
+        Sayfa yüklendiğinde otomatik olarak doğrulama kodunu gönder
+        window.addEventListener('DOMContentLoaded', () => {
+            fetch('/EmailVerification/SendCode', {
+                method: 'POST'
+            }).then(response => {
+                if (!response.ok) {
+                    console.error("Kod gönderilemedi.");
+                }
+            }).catch(error => {
+                console.error("Hata oluştu:", error);
+            });
+        });
+
+        // Kod kutuları için otomatik geçiş
+        const inputs = document.querySelectorAll('.code-inputs input');
+        inputs.forEach((input, index) => {
+            input.addEventListener('input', () => {
+                if (input.value.length === 1 && index < inputs.length - 1) {
+                    inputs[index + 1].focus();
+                }
+            });
+
+            input.addEventListener('keydown', (e) => {
+                if (e.key === 'Backspace' && input.value === '' && index > 0) {
+                    inputs[index - 1].focus();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

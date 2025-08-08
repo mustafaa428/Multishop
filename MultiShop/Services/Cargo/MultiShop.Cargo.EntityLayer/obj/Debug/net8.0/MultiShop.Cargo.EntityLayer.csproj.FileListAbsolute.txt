@@ -1,0 +1,14 @@
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\bin\Debug\net8.0\MultiShop.Cargo.EntityLayer.deps.json
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\bin\Debug\net8.0\MultiShop.Cargo.EntityLayer.runtimeconfig.json
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\bin\Debug\net8.0\MultiShop.Cargo.EntityLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\bin\Debug\net8.0\MultiShop.Cargo.EntityLayer.pdb
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.AssemblyInfo.cs
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\refint\MultiShop.Cargo.EntityLayer.dll
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.pdb
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\MultiShop.Cargo.EntityLayer.genruntimeconfig.cache
+C:\Users\mustafa\source\repos\MultiShop\Services\Cargo\MultiShop.Cargo.EntityLayer\obj\Debug\net8.0\ref\MultiShop.Cargo.EntityLayer.dll

@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/_UILayout.cshtml";
+}
+
+
+@await Component.InvokeAsync("_CarouselViewComponentPartial")
+@await Component.InvokeAsync("_FeatureDefaultViewComponentPartial")
+@await Component.InvokeAsync("_CategoriesDefaultViewComponentPartial")
+@await Component.InvokeAsync("_FeatureProductsViewComponentPartial",new {id = ViewBag.x})
+@await Component.InvokeAsync("_OfferDiscountViewComponentPartial")
+@await Component.InvokeAsync("_VendorViewComponentPartial")
+

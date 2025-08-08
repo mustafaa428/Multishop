@@ -1,0 +1,56 @@
+﻿@model List<ResultContacDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<section class="content container-fluid">
+    <div class="row">
+
+        <div class="col-md-12">
+            <div class="chart-box">
+                <div class="bs-example" data-example-id="bordered-table">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Gönderen adı</th>
+                                <th>Gönderen maili</th>
+                                <th>Konu</th>
+                                <th>Mesaj</th>
+                                <th>Sil</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if(Model != null && Model.Any())
+                            {
+                                 @foreach (var item in Model)
+                            {
+                                count++;
+                                <tr>
+                                    <th scope="row">@count</th>
+                                    <td>@item.FullName</td>
+                                    <td>@item.Email</td>
+                                    <td>@item.Subject</td>
+                                    <td>@item.Message</td>
+                                    <td><a href="/Admin/Contact/DeleteContact/@item.ContactId" class="btn btn-danger">sil</a></td>
+                                </tr>
+                                }
+                            }
+                            else
+                            {
+                                <p> Mesaj yok</p>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+

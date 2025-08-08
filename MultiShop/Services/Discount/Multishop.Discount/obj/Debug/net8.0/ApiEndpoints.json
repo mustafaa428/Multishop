@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "Multishop.Discount.Controllers.DiscountsController",
+    "Method": "DiscountCouponList",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Multishop.Discount.Controllers.DiscountsController",
+    "Method": "CreateDiscountCoupon",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCouponDto",
+        "Type": "Multishop.Discount.Dtos.CreateDiscountCouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Multishop.Discount.Controllers.DiscountsController",
+    "Method": "DeleteDiscountCoupon",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Multishop.Discount.Controllers.DiscountsController",
+    "Method": "UpdateDiscountCoupon",
+    "RelativePath": "api/Discounts",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCouponDto",
+        "Type": "Multishop.Discount.Dtos.UpdateDiscountCouponDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Multishop.Discount.Controllers.DiscountsController",
+    "Method": "GetDiscountCouponById",
+    "RelativePath": "api/Discounts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Multishop.Discount.Controllers.DiscountsController",
+    "Method": "GetCodeDetailByCodeAsync",
+    "RelativePath": "api/Discounts/GetCodeDetailByCodeAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Multishop.Discount.Controllers.DiscountsController",
+    "Method": "GetDiscountCouponRate",
+    "RelativePath": "api/Discounts/GetDiscountCouponRate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

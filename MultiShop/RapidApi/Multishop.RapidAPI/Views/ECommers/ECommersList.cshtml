@@ -1,0 +1,29 @@
+﻿@using Multishop.RapidAPIWebUI.Models
+@model List<ECommersViewModel.Product>
+@{
+    Layout = null;
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<div class="container">
+    <table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Ürün başlığı</th>
+        <th>Ürün puanı</th>
+        <th>Ürün fiyatı</th>
+        <th>Ürün fotoğrafı</th>
+    </tr>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td></td>
+                <td>@item.product_title</td>
+                <td>@item.product_rating</td>
+                <td>@item.price</td>
+                <td><img src="@item.product_photo" alt="Alternate Text" /></td>
+            </tr>
+        }
+    </table>
+</div>

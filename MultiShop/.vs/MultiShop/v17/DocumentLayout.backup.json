@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B81B67-6567-42D8-859B-E816508C0308}|Services\\RabbitMqMessage\\Multishop.RabbitMqMessageAPI\\Multishop.RabbitMqMessageAPI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\rabbitmqmessage\\multishop.rabbitmqmessageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66B81B67-6567-42D8-859B-E816508C0308}|Services\\RabbitMqMessage\\Multishop.RabbitMqMessageAPI\\Multishop.RabbitMqMessageAPI.csproj|solutionrelative:services\\rabbitmqmessage\\multishop.rabbitmqmessageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B847FE-EAA6-4336-AD06-CA9230DCF3B3}|Services\\Payment\\MultiShop.Payment\\MultiShop.Payment.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\payment\\multishop.payment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63B847FE-EAA6-4336-AD06-CA9230DCF3B3}|Services\\Payment\\MultiShop.Payment\\MultiShop.Payment.csproj|solutionrelative:services\\payment\\multishop.payment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F75C7-3D7C-4D86-B0B8-9B4037FB530E}|Services\\Order\\Infrastucture\\MultiShop.Order.Persistance\\MultiShop.Order.Persistance.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\order\\infrastucture\\multishop.order.persistance\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F75C7-3D7C-4D86-B0B8-9B4037FB530E}|Services\\Order\\Infrastucture\\MultiShop.Order.Persistance\\MultiShop.Order.Persistance.csproj|solutionrelative:services\\order\\infrastucture\\multishop.order.persistance\\context\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92E0F6E-1935-4F6D-B365-D4A8632E76DA}|Services\\Images\\MultiShop.Images\\MultiShop.Images.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\images\\multishop.images\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A92E0F6E-1935-4F6D-B365-D4A8632E76DA}|Services\\Images\\MultiShop.Images\\MultiShop.Images.csproj|solutionrelative:services\\images\\multishop.images\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\images\\multishop.images.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|solutionrelative:services\\images\\multishop.images.webui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\images\\multishop.images.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|solutionrelative:services\\images\\multishop.images.webui\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\images\\multishop.images.webui\\services\\icloudstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|solutionrelative:services\\images\\multishop.images.webui\\services\\icloudstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\images\\multishop.images.webui\\services\\gcsconfigoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|solutionrelative:services\\images\\multishop.images.webui\\services\\gcsconfigoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\images\\multishop.images.webui\\services\\cloudstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|solutionrelative:services\\images\\multishop.images.webui\\services\\cloudstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\images\\multishop.images.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D88329A-C698-482E-AAF6-0A37F4030ABC}|Services\\Images\\multishop.Images.WebUI\\multishop.Images.WebUI.csproj|solutionrelative:services\\images\\multishop.images.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EB6032-C739-48E9-99D2-4D14ACCE25BF}|Services\\Discount\\Multishop.Discount\\Multishop.Discount.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54EB6032-C739-48E9-99D2-4D14ACCE25BF}|Services\\Discount\\Multishop.Discount\\Multishop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F928D1D1-04E2-4C8D-895F-F4AB0F5060E5}|Services\\Comment\\MultiShop.Comment\\MultiShop.Comment.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\comment\\multishop.comment\\context\\commentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F928D1D1-04E2-4C8D-895F-F4AB0F5060E5}|Services\\Comment\\MultiShop.Comment\\MultiShop.Comment.csproj|solutionrelative:services\\comment\\multishop.comment\\context\\commentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F928D1D1-04E2-4C8D-895F-F4AB0F5060E5}|Services\\Comment\\MultiShop.Comment\\MultiShop.Comment.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\comment\\multishop.comment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F928D1D1-04E2-4C8D-895F-F4AB0F5060E5}|Services\\Comment\\MultiShop.Comment\\MultiShop.Comment.csproj|solutionrelative:services\\comment\\multishop.comment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E9489D8-BDE9-4801-8589-9CD5B2CA17D6}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\cargo\\multishop.cargo.dataaccesslayer\\concrate\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E9489D8-BDE9-4801-8589-9CD5B2CA17D6}|Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\MultiShop.Cargo.DataAccessLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dataaccesslayer\\concrate\\cargocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE10937-AD1C-4144-A990-DACB8F68E76B}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\cargo\\multishop.cargo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEE10937-AD1C-4144-A990-DACB8F68E76B}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E4BC40-FA95-44BC-9282-D36FFCFD614E}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\basket\\multishop.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33E4BC40-FA95-44BC-9282-D36FFCFD614E}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\settings\\databasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA14094F-FB55-5ABC-1402-B4229C4AD0B1}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\identityserver\\multishop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA14094F-FB55-5ABC-1402-B4229C4AD0B1}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\frontend\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontend\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\frontend\\multishop.webui\\areas\\admin\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontend\\multishop.webui\\areas\\admin\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\frontend\\multishop.webui\\services\\catalogservices\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontend\\multishop.webui\\services\\catalogservices\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C4665E-39AA-4AA5-B04F-96B34C9D6DD5}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\frontend\\multishop.webui\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontend\\multishop.webui\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\mustafa\\source\\repos\\multishop\\frontend\\multishop.webui\\areas\\admin\\views\\product\\prodcutlistwithcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1458F3BC-CEF9-451D-9E63-0D5EB028C9F9}|Frontend\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontend\\multishop.webui\\areas\\admin\\views\\product\\prodcutlistwithcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\RabbitMqMessage\\Multishop.RabbitMqMessageAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\RabbitMqMessage\\Multishop.RabbitMqMessageAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\RabbitMqMessage\\Multishop.RabbitMqMessageAPI\\appsettings.json",
+              "RelativeToolTip": "Services\\RabbitMqMessage\\Multishop.RabbitMqMessageAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:16:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Payment\\MultiShop.Payment\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Payment\\MultiShop.Payment\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Payment\\MultiShop.Payment\\appsettings.json",
+              "RelativeToolTip": "Services\\Payment\\MultiShop.Payment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:15:51.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Order\\Infrastucture\\MultiShop.Order.Persistance\\Context\\OrderContext.cs",
+              "RelativeDocumentMoniker": "Services\\Order\\Infrastucture\\MultiShop.Order.Persistance\\Context\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Order\\Infrastucture\\MultiShop.Order.Persistance\\Context\\OrderContext.cs",
+              "RelativeToolTip": "Services\\Order\\Infrastucture\\MultiShop.Order.Persistance\\Context\\OrderContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:15:36.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\MultiShop.Images\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Images\\MultiShop.Images\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\MultiShop.Images\\appsettings.json",
+              "RelativeToolTip": "Services\\Images\\MultiShop.Images\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:15:24.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Services\\Images\\multishop.Images.WebUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Services\\Images\\multishop.Images.WebUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:15:17.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Services\\Images\\multishop.Images.WebUI\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Services\\Images\\multishop.Images.WebUI\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:15:10.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICloudStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Services\\ICloudStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Images\\multishop.Images.WebUI\\Services\\ICloudStorageService.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Services\\ICloudStorageService.cs",
+              "RelativeToolTip": "Services\\Images\\multishop.Images.WebUI\\Services\\ICloudStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:15:02.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GCSConfigOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Services\\GCSConfigOptions.cs",
+              "RelativeDocumentMoniker": "Services\\Images\\multishop.Images.WebUI\\Services\\GCSConfigOptions.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Services\\GCSConfigOptions.cs",
+              "RelativeToolTip": "Services\\Images\\multishop.Images.WebUI\\Services\\GCSConfigOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:14:58.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CloudStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Services\\CloudStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Images\\multishop.Images.WebUI\\Services\\CloudStorageService.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\Services\\CloudStorageService.cs",
+              "RelativeToolTip": "Services\\Images\\multishop.Images.WebUI\\Services\\CloudStorageService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:14:51.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Images\\multishop.Images.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Images\\multishop.Images.WebUI\\appsettings.json",
+              "RelativeToolTip": "Services\\Images\\multishop.Images.WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:14:35.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Discount\\Multishop.Discount\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\Multishop.Discount\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Discount\\Multishop.Discount\\appsettings.json",
+              "RelativeToolTip": "Services\\Discount\\Multishop.Discount\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:14:14.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentContext.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Comment\\MultiShop.Comment\\Context\\CommentContext.cs",
+              "RelativeDocumentMoniker": "Services\\Comment\\MultiShop.Comment\\Context\\CommentContext.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Comment\\MultiShop.Comment\\Context\\CommentContext.cs",
+              "RelativeToolTip": "Services\\Comment\\MultiShop.Comment\\Context\\CommentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:13:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Comment\\MultiShop.Comment\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Comment\\MultiShop.Comment\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Comment\\MultiShop.Comment\\appsettings.json",
+              "RelativeToolTip": "Services\\Comment\\MultiShop.Comment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:13:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CargoContext.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrate\\CargoContext.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrate\\CargoContext.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrate\\CargoContext.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DataAccessLayer\\Concrate\\CargoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:13:30.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:13:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\appsettings.json",
+              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:12:53.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Settings\\DatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:12:37.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T09:12:29.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:12:10.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T09:11:40.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T09:08:18.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T09:07:56.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAzwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:55:34.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProdcutListWithCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Product\\ProdcutListWithCategory.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Product\\ProdcutListWithCategory.cshtml",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Product\\ProdcutListWithCategory.cshtml",
+              "RelativeToolTip": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Views\\Product\\ProdcutListWithCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T06:28:03.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Services\\CatalogServices\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Frontend\\MultiShop.WebUI\\Services\\CatalogServices\\ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Services\\CatalogServices\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "Frontend\\MultiShop.WebUI\\Services\\CatalogServices\\ProductServices\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:42:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mustafa\\source\\repos\\MultiShop\\Frontend\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Frontend\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T08:41:11.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

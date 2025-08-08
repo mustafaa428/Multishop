@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carbide-buckeye-467008-h4",
+  "private_key_id": "268c987b101d06b3affa8ed1572e341ee6379765",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9xNv7GM7REALF\npekT88w1k+1qE1YVLb1k1UJ8oqYlVcvphDjqbo61uxMtFMAxzG+UImmw8QDGSytQ\nbvdaR3fp6p9cn7NEsbriR1C8xRGRNzIs8ngpRMeXD9rPIxUsjJ3cuzcXK3IOVQlf\n0SxHh+iH4bGlL7mzBku+gJ09fIw4G9xcEO2JKuXhqve5vkchpqweLPs37Pk4V64U\naT2t21HntOadx1kP36GhmXEOv3orFs7PSyQ+QG38sBOn0R0qtFobJqXWBWvcX3+E\nYI28aI41BhsIkeq391Z5Jeg3N/PF2vJ1b0dIQOzEr0SBGnBGPdPB5+uIg8dUKnaG\nmShvtx4lAgMBAAECggEAEtki5UNvRT4DHHjwV7o7AeZNqh++CM/4c/OnjSQFfwdQ\nv8KReZ1eAMhSLQPW3AtbWLn7R+cEBe3w4SYIXNfk3d+fEO7Ouiex8WgWaY1kQ4lZ\nKzQxAZ5SeZtKRxELuRdFVadlnyBCTZCeI/1tWbRywM5Gm+rL1a9uJf91vqXocmkM\nGildnGLZrc4MA3UQICbbCDB2wsZ8mzvqasDKtuZnmLj3r+XxR8oK5cX93thApj5G\nX5Y+HLoEOErKYU9RcOQjq8mqVJdvEitSNnVIU1MZ2mVE3qjxVxbwqmikI1jJ+boh\nvDv1kqKXu6wQyjSo7wodGHLiMcnG7OgZkfSu8CSDMQKBgQDs0kcGngJA/pelwdBm\nUKMnZEqtYHYje36ffwStQP38WkboLSbAWUjPeWbz1hSblLJ1EBufRV4QdHySC3vI\nl/Hj0NESfjgF9FCRyLF60wx0DDbhb85k1uy9vt83ptf8VueyffU2mtPvV6dSBXw1\nllZtsA/nw+mqUmN0nkC6GBLiMQKBgQDNIxpUBqktaQok40na1H682y0FR92V7ZhJ\nXQlXtzNsu1BX+hXvtXwtogMhvVFyOjVoQTOaDbap21dvoi98gNeeUelWphXf10Tr\n885ZQafNhxXUQmpOUPWu8cbFfL4vb8+rM5fED8As2w0PuQ+tVQX7M5Qqy37XH18F\n/t7rZQZqNQKBgGc3ryU/MRRK4qWoN8CgXLwKhlHSvSrx5Fp37f3lWc3nOwhuxXkI\ncSecbjbQk+LLiIxlHOTqQvlBDBpLTwQ61X7JwJYi1SAjQAqKQnCaE89wk2rmZDqn\nQj/hNUD4QyMEba/qHjpSeRTUS2UAZwakI79jAUuuo+VMS3TElMmHPJPBAoGAZfzo\nzxPMsqYBhBt4kZKKPEzf0jtLoInS586YoYKUz59FL6hHlbjuNyXQVsrwHlFwUhfw\nlsvwn/xMOVUyNL099hmVYB4MzBAT1ReO5PNugRGDOdeXUL6Rl1vfTjpZt+3oGp74\n+mI2UlbJ5KJGeA/IfH7FUI2Bz2RqcumnXPMKQG0CgYBkVyzfTNr9HBpWWm6De8ob\ns+5PLwYCC3TLEiZbPDUE0CuJcSVp7T2szbhIX4wRw/0KWcbsbXAUV/ZKE1eij6/r\njpYv1XGqhqDF/G/mTX3bVHpe/LYY8FLt0sVn2uNbkPeNOp63zO0c5Ojf0Pf7KMBU\nVLYvesDH1StkZpa01ukN7w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mymultishop@carbide-buckeye-467008-h4.iam.gserviceaccount.com",
+  "client_id": "118161897911029096133",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mymultishop%40carbide-buckeye-467008-h4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

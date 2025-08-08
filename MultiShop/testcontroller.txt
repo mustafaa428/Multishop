@@ -1,0 +1,30 @@
+            string token;
+            using (var httpclient = new HttpClient())
+            {
+                var request = new HttpRequestMessage
+                {
+                    RequestUri = new Uri("http://localhost:5001/connect/token"),
+                    Method = HttpMethod.Post,
+                    Content = new FormUrlEncodedContent(new Dictionary<string, string>
+                    {
+                        { "grant_type", "client_credentials" },
+                        { "client_id", "MultiShopVisitorId" },
+                        { "client_secret", "multishopsecret" }
+                    })
+
+                };
+
+                using(var response = await httpclient.SendAsync(request))
+                {
+                    if (response.IsSuccessStatusCode)
+                    {
+                        var jsonData = await response.Content.ReadAsStringAsync();
+                        var tokenResponse = JObject.Parse(jsonData);
+                        token = tokenResponse["access_token"].ToString();
+                    }
+                    else
+                    {
+                        throw new Exception("Token alýmý baþarýsýz oldu.");
+                    }
+                }
+            }

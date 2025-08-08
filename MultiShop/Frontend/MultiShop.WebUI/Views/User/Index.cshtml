@@ -1,0 +1,15 @@
+﻿@model UserDetailViewModel
+@{
+    Layout = null;
+}
+<link href="c:\users\mustafa\source\repos\multishop\frontend\multishop.webui\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css" rel="stylesheet" />
+
+<div class="Container">
+    <br /><br /><br />
+    <h3>Kullanıcı profil bilgisi</h3>
+    <div class="alert alert-info">Kullanıcı id: @Model.Id</div>
+    <div class="alert alert-warning">Kullanıcı adı: @Model.Name</div>
+    <div class="alert alert-warning"> soyadı: @Model.Surname</div>
+    <div class="alert alert-info"> soyadı: @Model.Email</div>
+    <div class="alert alert-warning"> soyadı: @Model.Username</div>
+</div>

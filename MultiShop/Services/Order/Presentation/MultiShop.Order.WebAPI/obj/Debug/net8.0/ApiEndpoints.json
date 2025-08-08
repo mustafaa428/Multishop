@@ -1,0 +1,224 @@
+[
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.AddressesController",
+    "Method": "GetAddressList",
+    "RelativePath": "api/Addresses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.AddressesController",
+    "Method": "CreatAddress",
+    "RelativePath": "api/Addresses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createAddressCommand",
+        "Type": "MultiShop.Order.Application.Features.CQRS.Commands.AddressCommands.CreateAddressCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.AddressesController",
+    "Method": "UpdateAddress",
+    "RelativePath": "api/Addresses",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateAddressCommand",
+        "Type": "MultiShop.Order.Application.Features.CQRS.Commands.AddressCommands.UpdateAddressCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.AddressesController",
+    "Method": "RemoveAddress",
+    "RelativePath": "api/Addresses",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.AddressesController",
+    "Method": "AddressListById",
+    "RelativePath": "api/Addresses/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderDetailesController",
+    "Method": "GetOrderDetailList",
+    "RelativePath": "api/OrderDetailes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderDetailesController",
+    "Method": "CreateOrderDetail",
+    "RelativePath": "api/OrderDetailes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MultiShop.Order.Application.Features.CQRS.Commands.OrderDetailCommands.CreateOrderDetailCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderDetailesController",
+    "Method": "UpdateOrderDetail",
+    "RelativePath": "api/OrderDetailes",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MultiShop.Order.Application.Features.CQRS.Commands.OrderDetailCommands.UpdateOrderDetailCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderDetailesController",
+    "Method": "RemoveOrderDetail",
+    "RelativePath": "api/OrderDetailes",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderDetailesController",
+    "Method": "GetOrderDetailListById",
+    "RelativePath": "api/OrderDetailes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderingsController",
+    "Method": "GetOrderingList",
+    "RelativePath": "api/Orderings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderingsController",
+    "Method": "CreateOrdering",
+    "RelativePath": "api/Orderings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MultiShop.Order.Application.Features.Mediator.Commands.OrderingCommands.CreateOrderingCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderingsController",
+    "Method": "RemoveOrdering",
+    "RelativePath": "api/Orderings",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderingsController",
+    "Method": "UpdateOrdering",
+    "RelativePath": "api/Orderings",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MultiShop.Order.Application.Features.Mediator.Commands.OrderingCommands.UpdateOrderingCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiShop.Order.WebAPI.Controllers.OrderingsController",
+    "Method": "GetOrderingById",
+    "RelativePath": "api/Orderings/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
