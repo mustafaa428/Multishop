@@ -1,6 +1,6 @@
 # 🛍️ MultiShop - Mikroservis Mimarili E-Ticaret Projesi
 
-Bu proje, **ASP.NET Core Mikroservis Mimarisi** üzerine hazırlanmış bir e-ticaret platformudur. Proje, [Udemy'deki Asp.Net Core MultiShop Mikroservis E-Ticaret Kursu](https://www.udemy.com/) kapsamında geliştirilmiştir.
+Bu proje, **ASP.NET Core Mikroservis Mimarisi** üzerine hazırlanmış bir e-ticaret platformudur. Proje, [Udemy'deki Asp.Net Core MultiShop Mikroservis E-Ticaret Kursu] kapsamında geliştirilmiştir.
 
 ## 🚀 Proje Amacı
 
@@ -30,7 +30,7 @@ Bu proje ile mikroservis mimarisini gerçek bir e-ticaret senaryosu üzerinde uy
 - **Consul / Ocelot / YARP** – Servis keşfi ve yönlendirme
 - **AutoMapper** – DTO-Entity dönüşümleri
 
----
+
 
 ## 📦 Mikroservis Yapısı
 
